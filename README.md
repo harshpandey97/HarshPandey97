@@ -77,4 +77,6 @@ I'm actively looking for **Data Analyst / AI Analyst / Business Analyst** opport
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-pandey-395a10237"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/in/[harsh-pandey-395a10237](https://github.com/harshpandey97)"><img src="https://img.shields.io/badgegithub-0077B5?style=for-the-badge&logo=githublogoColor=white"/></a>
+
 </p>
