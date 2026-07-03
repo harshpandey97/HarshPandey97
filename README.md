@@ -1,5 +1,5 @@
 
-content = """# 👋 Hi, I'm Harsh Pandey
+ 👋 Hi, I'm Harsh Pandey
 
 ## Data Analyst | AI/ML Enthusiast | Turning Data Into Decisions
 
@@ -73,7 +73,4 @@ An end-to-end analytics platform that transforms raw YouTube datasets into actio
 - GitHub: https://github.com/harshpandey97
 - LinkedIn: https://www.linkedin.com/in/harsh-pandey-395a10237
 - Email: harshpandey6012@gmail.com
-"""
-out="/mnt/data/GitHub_Profile_README.md"
-Path(out).write_text(content,encoding="utf-8")
-print(out)
+ 
