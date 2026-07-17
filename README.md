@@ -6,10 +6,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Harsh%20Pandey&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">📊 Data Analyst (in progress) • Python • SQL • Power BI • ML</h3>
+<h3 align="center">📊 Data Analyst (in progress) • Python • SQL • Power BI • ML • AI Tools</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Business+Insights;Self-taught+%7C+Portfolio-driven+%7C+Project-first;Python+%2B+SQL+%2B+Power+BI+%2B+Excel;Building+in+public+-+60-Day+Analytics+Bootcamp"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Business+Insights;Self-taught+%7C+Portfolio-driven+%7C+Project-first;Python+%2B+SQL+%2B+Power+BI+%2B+Excel;Exploring+AI+Tools+%2B+Automation+%2B+GenAI;Building+in+public+-+60-Day+Analytics+Bootcamp"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 Career-pivoting from BCA into **Data Analytics / BI**, self-directed through a structured 60-day Python-to-Analytics bootcamp. I build a real, working project for every skill I learn instead of just collecting certificates — everything below is on GitHub, not just claimed.
 
-Currently targeting **Data Analyst / Junior Data Analyst / BI Analyst** roles, starting with smaller firms to build experience before corporates.
+Currently targeting **Data Analyst / Junior Data Analyst / BI Analyst** roles, starting with smaller firms to build experience before corporates. Alongside core analytics, I keep a working pulse on **trending AI tools** (ChatGPT, Claude, Gemini) and how they fit into a modern analyst's toolkit — automation, faster EDA, and AI-assisted reporting.
 
 ---
 
@@ -50,6 +50,7 @@ Currently targeting **Data Analyst / Junior Data Analyst / BI Analyst** roles, s
 | Power BI | 🟡 Building dashboards | Superstore sales dashboard |
 | Excel (Advanced + Power Query) | 🟢 Strong | Multi-sheet analytical workbooks |
 | Tableau | 🟡 Learning | — |
+| AI Tools (ChatGPT/Claude/Gemini) | 🟢 Daily use | Prompting, comparison research, AI-assisted analysis |
 | Git/GitHub | 🟢 Daily use | Portfolio-first workflow |
 
 </details>
@@ -61,6 +62,14 @@ Currently targeting **Data Analyst / Junior Data Analyst / BI Analyst** roles, s
 ---
 
 ## 🚀 Featured Projects
+
+<details open>
+<summary><b>🤖 AI Tools Comparison — ChatGPT vs Claude vs Gemini</b></summary>
+<br>
+Data analysis project benchmarking the three leading AI assistants across reasoning, coding, math, and multimodal benchmarks, plus pricing, context window, speed, and a 30-respondent user satisfaction survey. Full analysis pipeline with auto-generated charts (radar, boxplot, breakdowns) and summary reports, plus an interactive Jupyter notebook.
+<br><br>
+<code>Python · Pandas · Matplotlib · Seaborn · Data Analysis</code>
+</details>
 
 <details open>
 <summary><b>📦 Google Workspace Analytics</b></summary>
@@ -128,6 +137,16 @@ Automation tool for sending personalized bulk outreach emails at scale.
 
 ---
 
+## 📌 Pinned Repo Card
+
+<p align="center">
+<a href="https://github.com/harshpandey97/ai-tools-comparison">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpandey97&repo=ai-tools-comparison&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -139,6 +158,10 @@ Automation tool for sending personalized bulk outreach emails at scale.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpandey97&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpandey97&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ## 🗺️ Current Roadmap
@@ -148,10 +171,10 @@ Automation tool for sending personalized bulk outreach emails at scale.
 <br>
 
 ```text
-Phase 1  SQL + Python Foundations        ████████░░  In progress
+Phase 1  SQL + Python Foundations          ████████░░  In progress
 Phase 2  Analytics & BI (Power BI/Tableau) ████░░░░░░  Started
-Phase 3  Data Science / ML                █████░░░░░  Applied in projects
-Phase 4  AI / GenAI / Agentic AI          ██░░░░░░░░  Exploring
+Phase 3  Data Science / ML                 █████░░░░░  Applied in projects
+Phase 4  AI / GenAI / Agentic AI           ██░░░░░░░░  Exploring
 ```
 
 Tracked weekly in a 7-sheet Excel tracker across Data Analyst, Data Science, AI/GenAI, and Agentic AI tracks.
@@ -162,11 +185,13 @@ Tracked weekly in a 7-sheet Excel tracker across Data Analyst, Data Science, AI/
 
 ## 📫 Let's Connect
 
-Open to Data Analyst / BI Analyst / Junior Data Analyst roles and always happy to talk data.
+Open to Data Analyst / BI Analyst / Junior Data Analyst roles and always happy to talk data (or AI tools).
 
 <p align="center">
 <a href="https://linkedin.com/in/harsh-pandey-395a10237"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:harshpandey6012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/harshpandey97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/kingharshpandey123"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <p align="center">
