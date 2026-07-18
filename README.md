@@ -141,7 +141,7 @@ Automation tool for sending personalized bulk outreach emails at scale.
 
 <p align="center">
 <a href="https://github.com/harshpandey97/ai-tools-comparison">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpandey97&repo=ai-tools-comparison&theme=tokyonight&hide_border=true"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=harshpandey97&repo=ai-tools-comparison&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=harshpandey97&repo=Ai-Tools-Comparison&theme=tokyonight&hide_border=true)"/>
 </a>
 </p>
 
