@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Analyst+%7C+BI+Developer;Turning+Raw+Data+Into+Business+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel;Machine+Learning+%C2%B7+LLMs+%C2%B7+Automation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+AI+Analyst+%7C+BI+Developer;Turning+Raw+Data+Into+Actionable+Business+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel;Building+End-to-End+Data+Pipelines+%26+Dashboards"/>
 </p>
 
 <p align="center">
@@ -17,71 +17,82 @@
 <img src="https://komarev.com/ghpvc/?username=harshpandey97&style=flat-square&color=blue"/>
 </p>
 
-<p align="center">⭐ <i>Turning Data Into Decisions • Building AI For Impact</i></p>
+<p align="center">⭐ <i>Turning Data Into Decisions • Building Intelligent Workflows</i></p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **BCA graduate** based in Delhi NCR, building **AI-powered applications**, **data analytics solutions**, and **business intelligence dashboards**.
+I am a **BCA graduate** based in Delhi NCR, specializing in **Data Analytics**, **AI/ML workflows**, **Python automation**, and **Business Intelligence**[cite: 1.4]. 
 
-This profile is a hands-on portfolio — every concept I learn (SQL, Excel, Power BI, Python, ML, AI agents) gets turned into a real, working project rather than just a course certificate.
+I focus on building end-to-end data solutions — from extracting raw data and performing exploratory data analysis to crafting interactive dashboards and predictive machine learning models[cite: 1.4].
 
-**Currently focused on:** AI Engineering · AI Agents · RAG & LangGraph · Business Intelligence
-
-**Open to:** Full-time · Internship · Remote roles as an AI Engineer, Data Analyst, or BI Analyst
+- 🎓 **Education:** Bachelor of Computer Applications (BCA) – Asian School of Business[cite: 1.2, 1.4]
+- 💡 **Core Specialization:** Data Analytics · Power BI Dashboards · Predictive Modeling · Financial Analysis[cite: 1.4]
+- 🎯 **Open To:** Entry-level roles as a Data Analyst, AI Analyst, Business Intelligence Analyst, or Data Engineer in Delhi NCR, Gurugram, or Noida[cite: 1.2, 1.4]
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
+**Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Analytics & BI**
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**Analytics & Business Intelligence**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-yellow?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**AI / ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**AI, Machine Learning & NLP**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-**Tools**
+**Tools & Workflows**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Projects & Job Simulations
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 TalentRank AI**
-AI-powered recruitment platform ranking candidates using semantic search, hybrid scoring, and explainable AI.
+**⚡ BCG PowerCo SME Churn Analysis**  
+*(Python, Pandas, Scikit-learn, Excel)*
+- Performed end-to-end churn analysis for European energy utility PowerCo via BCG Virtual Simulation[cite: 1.4].
+- Built a **Random Forest Churn Prediction Model** achieving **~85% accuracy**[cite: 1.4].
+- Identified price sensitivity as a primary driver and formulated a targeted 20% discount strategy for high-risk clients[cite: 1.4].
 
-**📊 Ecommerce Sales Analysis**
-End-to-end business analytics: EDA, RFM analysis, cohort analysis, customer lifetime value, and an interactive Power BI dashboard.
+**📊 Superstore Sales Dashboard**  
+*(Excel, Power Query, Pivot Tables)*
+- Interactive dashboard featuring custom KPI cards, slicers, dynamic trend charts, and conditional formatting[cite: 1.4].
+- Cleaned and automated data pipeline using Power Query and advanced lookup formulas (`XLOOKUP`, `INDEX-MATCH`, `SUMIFS`)[cite: 1.4].
 
 </td>
 <td width="50%" valign="top">
 
-**💼 Recruiter Intelligence Engine**
-Data-driven engine surfacing hiring insights from recruitment data.
+**🤖 SEC 10-K Financial Analysis Engine**  
+*(Python, SEC EDGAR Data, Pandas, Matplotlib)*
+- Extracted key financial metrics (Revenue, Net Income, Assets, Cash Flow) for Apple, Tesla, and Microsoft across FY23–FY25[cite: 1.4].
+- Calculated YoY growth rates, financial ratios, and generated multi-sheet Excel reports & visual dashboards to power AI chatbot integrations[cite: 1.4].
 
-**🌫 Pollution Analysis Engine**
-Analytical engine exploring pollution trends and patterns.
+**✉️ Bulk Cold Email Automation Engine**  
+*(Python, SMTP, Gmail API)*
+- Scripted an automated outreach pipeline delivering personalized emails to 78+ consultancy firms[cite: 1.4].
+- Incorporated send-rate throttling, dynamic variable injection, and automated document attachment handling[cite: 1.4].
 
 </td>
 </tr>
@@ -91,42 +102,35 @@ Analytical engine exploring pollution trends and patterns.
 
 ### 📂 Repository Ecosystem
 
-**📚 Bootcamps & Learning**
-- ⭐ SQL Data Analytics Bootcamp
-- ⭐ Python Bootcamp (60 Days)
-- ⭐ Power BI Bootcamp
-- ⭐ Excel Bootcamp
-- ⭐ Google Sheets Data Analytics Toolkit
+**📊 Data Analytics & BI**
+- ⚡ BCG PowerCo Churn Prediction Engine[cite: 1.4]
+- 🛒 Superstore Interactive Sales Dashboard[cite: 1.4]
+- 📈 Customer Feedback Analytics Dashboard[cite: 1.2]
+- 🤖 SEC 10-K AI Financial Chatbot Pipeline[cite: 1.4]
 
-**📊 Analytics Projects**
-- 📈 Ecommerce Sales Analysis
-- 📉 Customer Churn Analysis
-- 👥 Customer Segmentation (RFM)
-- 🚇 Delhi Metro Analysis
-- 📺 YouTube Data Analysis
-- 📦 Google Workspace Analytics
-- 🌍 India Unemployment Analysis
-- 🚦 Traffic Pattern Analysis
-- 🏭 Sales Performance & SLA Analysis
+**🛠 Automation & Web Development**
+- ✉️ Python Bulk Cold Email Automation[cite: 1.4]
+- 🌐 HustleMind Money - Digital Brand & Web Assets[cite: 1.4]
+- 💼 Personal Portfolio Website[cite: 1.2]
 
-**🤖 AI Projects**
-- 🧠 TalentRank AI
-- 💼 Recruiter Intelligence Engine
-- 🎬 Movie Recommendation System
-- 🌫 Pollution Analysis Engine
-- 🚚 Supply Chain Cost Optimization
-- 📊 AI Tools Comparison
+---
 
-**🌐 Portfolio**
-- 💼 Data Analyst Portfolio
-- 🌍 Personal Portfolio Website
-- ⚙️ GitHub Profile
+### 📜 Certifications & Job Simulations
+
+- **BCG** – Data Science Job Simulation (Forage)[cite: 1.4]
+- **J.P. Morgan** – Quantitative Research Job Simulation (Forage)[cite: 1.4]
+- **Tata iQ** – AI-Powered Data Analytics & Strategy Job Simulation (Forage)[cite: 1.4]
+- **Walmart USA** – Advanced Software Engineering Simulation (Forage)[cite: 1.4]
+- **Mastercard** – Security Awareness Team Simulation (Forage)[cite: 1.4]
+- **Siemens Mobility** – Commercial Project Manager Simulation (Forage)[cite: 1.4]
+- **Google Digital Garage** – Fundamentals of Digital Marketing[cite: 1.2]
+- **Tutedude** – Data Analytics (An IIT Delhi Initiative)[cite: 1.4]
 
 ---
 
 ### 🌱 2026 Learning Roadmap
 
-`Python` ✅ → `SQL` ✅ → `Excel` ✅ → `Google Sheets` ✅ → `Power BI` 🟡 → `Machine Learning` 🟡 → `AI Engineering` 🟡 → `AI Agents` 🔵 → `RAG & LangGraph` 🔵
+`Excel & Data Prep` ✅ → `SQL & Relational DBs` ✅ → `Python Automation` ✅ → `Power BI & Visualization` ✅ → `Machine Learning (Scikit-Learn)` 🟡 → `Advanced AI / LLMs` 🔵
 
 ---
 
